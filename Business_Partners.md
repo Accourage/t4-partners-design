@@ -10,3 +10,6 @@ painters, plumbers, electricians, gardners, etc.  An independent handyman can of
 This benefits both the provider and Accourage, allowing for the growth of our business as well as the provider's business. Furthermore, 
 Accourage could team up with larger companies that specialize in home improvement. Local businesses would be able to advertise their services
 and reach out to customers through the Accourage app, benefiting both parties in the process.
+
+## Carpenters
+Another potential service provider that could use Accourage would be carpenters. These workers could build custom furnature for people based on what they need. This is a benefit to the carpenter because Accourage offers him/her a platform to find customers. This is also a benefit to the customer because they can find carpenters. Carpenters would be a valuable business partner for Accourage because carpenters give Accourage a special market. Accourage would be one of the only places to find someone who will do a small job for you. Everyone benefits from this business partner.
